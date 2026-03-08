@@ -1,0 +1,189 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    min-height: 100vh;
+    background-color: black;
+    color: blueviolet;
+    font-family: "Press Start 2P", system-ui;
+}
+
+a {
+    color: beige;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 1.2em;
+}
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5em;
+    margin-left: 2.5em;
+    color: beige;
+    text-decoration: none;
+    
+}
+
+
+header {
+    
+    font-weight: 100;
+    font-size: small;
+    display: flex;
+
+
+
+}
+
+
+.amogus {
+    position: relative;
+    width: 45vw;
+    height: 20vh;
+}
+
+
+.what {
+    border-radius: 5%;
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color: mediumblue;
+    border: 2px solid white;
+    font-family: "Press Start 2P", system-ui;
+    font-size: smaller;
+    position: fixed;
+    top: 50vw;
+    left: 80%;
+    bottom: 85%;
+    transition: background-color 0.2s; /* длительность 0.5с */
+    transition-delay: 0.2s; /* задержка 1 секунда */
+
+}
+
+
+.what:hover {
+    background-color: red;
+}
+
+
+.main {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+
+.og {
+    color: aqua;
+}
+
+
+
+.deepseek {
+    text-align: center;
+    color: cornflowerblue;
+  font-family: "Lobster", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: x-large;
+}
+
+
+.a {
+    transition: transform 0.3s ease; 
+}
+
+.b{
+    transition: transform 0.3s ease; 
+}
+
+.c {
+    transition: transform 0.3s ease; 
+}
+
+.a:hover {
+transform: scale(1.2); 
+}
+
+
+.b:hover {
+transform: scale(1.2); 
+}
+
+
+.c:hover {
+transform: scale(1.2); 
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.images {
+  justify-content: space-around;
+
+}
+
+
+.images {
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+img {
+    max-width: 50%;
+  }
+
+
+.batata {
+    position: relative;
+    right: 30vw;
+}
+
+.u {
+    font-size: 3em;
+    color: azure;
+}
+
+.xwe {
+    position: relative;
+  right: 5vw;
+}
+
+.y {
+    font-size: 3em;
+    color: azure;
+}
+
+.xwy {
+    position: relative;
+    left: 1vw;
+    font-size: 1em;
+}
+
+
+.chi{
+    text-align: center;
+    font-size: 2em;
+    color: red;
+}
+
+
+
+.cookiee {
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    width: 80vw;
+    position: relative;
+    left: 8vw;
+}
+
+
+
+.batata {
+    width: 40vw;
+}
