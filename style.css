@@ -54,7 +54,7 @@ header {
     font-family: "Press Start 2P", system-ui;
     font-size: smaller;
     position: fixed;
-    top: 50vw;
+
     left: 80%;
     bottom: 85%;
     transition: background-color 0.2s; /* длительность 0.5с */
